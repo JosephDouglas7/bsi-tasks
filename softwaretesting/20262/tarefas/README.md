@@ -8,9 +8,9 @@ Neste diretório teremos as descrições das tarefas da disciplina e os links pa
 
 ## Respostas dos Discentes
 
-* <username>:
+* <Joseph Douglas Moura Batista>:
   * Link Tarefa 1 (issue):
-  * Link `tarefa01.md`:
+  * Link [tarefa01.md](https://github.com/JosephDouglas7/tarefa01.md.git):
 * <username>:
   * Link Tarefa 1 (issue):
   * Link `tarefa01.md`:
