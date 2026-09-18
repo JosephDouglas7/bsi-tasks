@@ -10,7 +10,7 @@ Neste diretório teremos as descrições das tarefas da disciplina e os links pa
 
 **Joseph Douglas Moura Batista**:
   * Link Tarefa 1 (issue):
-  * Link [tarefa01.md](https://github.com/JosephDouglas7/tarefa01.md.git):
+  * Link [Repositório do projeto](https://github.com/JosephDouglas7/Projeto-da-disciplina-teste-de-software.git):
 * <username>:
   * Link Tarefa 1 (issue):
   * Link `tarefa01.md`:
