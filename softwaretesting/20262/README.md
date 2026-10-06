@@ -81,7 +81,7 @@ partir do texto escrito.
 
   * Link Repositório: <https://github.com/JosephDouglas7/Projeto-da-disciplina-teste-de-software>
   * Link Documento de Visão:
-  * Link Relatório do Estado Atual dos Testes:
+  * Link Relatório do Estado Atual dos Testes:<https://github.com/JosephDouglas7/Projeto-da-disciplina-teste-de-software/blob/main/Relat%C3%B3rio%20do%20Estado%20Atual%20dos%20Testes.md>
   * Link Plano de Teste Geral (PTG):
   * Link Plano de Teste das Iterações 1 e 2 (PTI):
   * Link SonarQube LABENS: <https://labens.dct.ufrn.br/sonarqube/>
