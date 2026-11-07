@@ -60,9 +60,9 @@ Neste diretório temos as orientações, links de enunciados e registros de entr
   * Link Repositório do Projeto (Frontend): <https://github.com/MViniciusCoffe/SpendSmart-Frontend>
 
 * `JosephDouglas7` (Joseph Douglas Moura Batista — G2):
-  * Link Tarefa 1 (issue):
-  * Link Tarefa 2 (issue):
-  * Link Tarefa 3 (issue):
+  * Link Tarefa 1 (issue): 
+  * Link Tarefa 2 (issue): https://github.com/tacianosilva/bsi-tasks/issues/463
+  * Link Tarefa 3 (issue): https://github.com/tacianosilva/bsi-tasks/issues/466 
   * Link Repositório do Projeto: <https://github.com/JosephDouglas7/Projeto-da-disciplina-teste-de-software>
 
 * `Luisfelipelinhares` (Luís Felipe Linhares Pereira — G3):
